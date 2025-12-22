@@ -87,5 +87,94 @@
     ],
     "rank_str": "36",
     "summary": null
+  },
+  {
+    "id": "969f0443-f73e-4aca-a12f-2dac6bdda825",
+    "created_at": "2025-12-22T13:51:56.414Z",
+    "updated_at": "2025-12-22T13:51:56.414Z",
+    "name": "第十一届中国大学生程序设计竞赛 郑州站（CCPC 2025 Zhengzhou Site）",
+    "total_problems": 13,
+    "problems": [
+      {
+        "letter": "A",
+        "pass_count": 13,
+        "attempt_count": 22,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "B",
+        "pass_count": 363,
+        "attempt_count": 451,
+        "my_status": "ac"
+      },
+      {
+        "letter": "C",
+        "pass_count": 17,
+        "attempt_count": 24,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "D",
+        "pass_count": 105,
+        "attempt_count": 167,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "E",
+        "pass_count": 9,
+        "attempt_count": 26,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "F",
+        "pass_count": 2,
+        "attempt_count": 16,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "G",
+        "pass_count": 345,
+        "attempt_count": 457,
+        "my_status": "ac"
+      },
+      {
+        "letter": "H",
+        "pass_count": 14,
+        "attempt_count": 33,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "I",
+        "pass_count": 146,
+        "attempt_count": 160,
+        "my_status": "ac"
+      },
+      {
+        "letter": "J",
+        "pass_count": 210,
+        "attempt_count": 280,
+        "my_status": "ac"
+      },
+      {
+        "letter": "K",
+        "pass_count": 40,
+        "attempt_count": 54,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "L",
+        "pass_count": 1,
+        "attempt_count": 5,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "M",
+        "pass_count": 450,
+        "attempt_count": 493,
+        "my_status": "ac"
+      }
+    ],
+    "rank_str": "118",
+    "summary": null
   }
 ]
