@@ -1,0 +1,91 @@
+[
+  {
+    "id": "2fb9928e-0d1d-444a-b5e2-52fa9b065680",
+    "created_at": "2025-12-22T10:31:48.373Z",
+    "updated_at": "2025-12-22T10:31:48.373Z",
+    "name": "The 2025 ICPC Asia Shenyang Regional Contest",
+    "total_problems": 13,
+    "problems": [
+      {
+        "letter": "A",
+        "pass_count": 156,
+        "attempt_count": 222,
+        "my_status": "ac"
+      },
+      {
+        "letter": "B",
+        "pass_count": 641,
+        "attempt_count": 700,
+        "my_status": "ac"
+      },
+      {
+        "letter": "C",
+        "pass_count": 25,
+        "attempt_count": 49,
+        "my_status": "ac"
+      },
+      {
+        "letter": "D",
+        "pass_count": 40,
+        "attempt_count": 64,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "E",
+        "pass_count": 12,
+        "attempt_count": 15,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "F",
+        "pass_count": 132,
+        "attempt_count": 383,
+        "my_status": "attempted"
+      },
+      {
+        "letter": "G",
+        "pass_count": 154,
+        "attempt_count": 169,
+        "my_status": "ac"
+      },
+      {
+        "letter": "H",
+        "pass_count": 12,
+        "attempt_count": 18,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "I",
+        "pass_count": 713,
+        "attempt_count": 715,
+        "my_status": "ac"
+      },
+      {
+        "letter": "J",
+        "pass_count": 32,
+        "attempt_count": 79,
+        "my_status": "ac"
+      },
+      {
+        "letter": "K",
+        "pass_count": 320,
+        "attempt_count": 417,
+        "my_status": "ac"
+      },
+      {
+        "letter": "L",
+        "pass_count": 12,
+        "attempt_count": 24,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "M",
+        "pass_count": 659,
+        "attempt_count": 684,
+        "my_status": "ac"
+      }
+    ],
+    "rank_str": "36",
+    "summary": null
+  }
+]
