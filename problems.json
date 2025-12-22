@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9db72253-ca45-493f-9f99-624dc61bdee4",
+    "created_at": "2025-12-22T10:33:38.249Z",
+    "updated_at": "2025-12-22T10:33:38.249Z",
+    "title": "25 沈阳 A. Square Kingdom",
+    "link": "https://contest.ucup.ac/contest/2641/problem/14940",
+    "source": "ucup",
+    "tags": [
+      "二分",
+      "计数",
+      "枚举"
+    ],
+    "assignee": "宿子腾",
+    "solved": false,
+    "unsolved_stage": null,
+    "unsolved_custom_label": null,
+    "pass_count": 33,
+    "notes": "拆式子，改变枚举的量"
+  },
+  {
+    "id": "48544ef9-c426-4a64-80d6-95e9e4d1e176",
+    "created_at": "2025-12-22T10:34:13.643Z",
+    "updated_at": "2025-12-22T10:34:13.643Z",
+    "title": "25 沈阳 D. LED Display Renovation",
+    "link": "https://contest.ucup.ac/contest/2641/problem/14943",
+    "source": "ucup",
+    "tags": [
+      "数位DP"
+    ],
+    "assignee": "连君朴",
+    "solved": false,
+    "unsolved_stage": null,
+    "unsolved_custom_label": null,
+    "pass_count": 9,
+    "notes": null
+  },
+  {
+    "id": "0451984e-90f3-4534-b3c9-00d6c9f75b6b",
+    "created_at": "2025-12-22T10:35:01.726Z",
+    "updated_at": "2025-12-22T10:35:01.726Z",
+    "title": "25 沈阳 F. The Bond Beyond Time",
+    "link": "https://contest.ucup.ac/contest/2641/problem/14945",
+    "source": "ucup",
+    "tags": [
+      "图论",
+      "构造",
+      "分讨"
+    ],
+    "assignee": "詹靖杰",
+    "solved": false,
+    "unsolved_stage": null,
+    "unsolved_custom_label": null,
+    "pass_count": 47,
+    "notes": "在 BFS 树上找到第一条横叉边"
+  }
+]
