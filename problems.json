@@ -38,7 +38,7 @@
   {
     "id": "0451984e-90f3-4534-b3c9-00d6c9f75b6b",
     "created_at": "2025-12-22T10:35:01.726Z",
-    "updated_at": "2025-12-22T10:35:01.726Z",
+    "updated_at": "2025-12-22T13:44:12.500Z",
     "title": "25 沈阳 F. The Bond Beyond Time",
     "link": "https://contest.ucup.ac/contest/2641/problem/14945",
     "source": "ucup",
@@ -48,7 +48,7 @@
       "分讨"
     ],
     "assignee": "詹靖杰",
-    "solved": false,
+    "solved": true,
     "unsolved_stage": null,
     "unsolved_custom_label": null,
     "pass_count": 47,
