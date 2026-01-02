@@ -105,5 +105,91 @@
     "unsolved_custom_label": null,
     "pass_count": 34,
     "notes": "找到特殊的点开始 dfs/bfs"
+  },
+  {
+    "id": "95759e09-e691-40aa-94ac-8c66d529b120",
+    "created_at": "2025-12-28T09:36:30.603Z",
+    "updated_at": "2025-12-28T09:36:30.603Z",
+    "title": "25 WF Baku K. Treasure Map",
+    "link": "https://qoj.ac/contest/2522/problem/14611",
+    "source": "qoj",
+    "tags": [],
+    "assignee": "连君朴/宿子腾",
+    "solved": false,
+    "unsolved_stage": "未看题",
+    "unsolved_custom_label": null,
+    "pass_count": 79,
+    "notes": null
+  },
+  {
+    "id": "6a4b4d21-9987-4a3d-a486-60b6fff89678",
+    "created_at": "2025-12-28T09:37:06.777Z",
+    "updated_at": "2025-12-28T09:37:06.777Z",
+    "title": "25 WF Baku H. Score Values",
+    "link": "https://qoj.ac/contest/2522/problem/14608",
+    "source": "qoj",
+    "tags": [
+      "数位DP"
+    ],
+    "assignee": "詹靖杰",
+    "solved": false,
+    "unsolved_stage": null,
+    "unsolved_custom_label": null,
+    "pass_count": 76,
+    "notes": null
+  },
+  {
+    "id": "8cdbaa9d-560e-4723-a944-28ef7d48b51f",
+    "created_at": "2026-01-02T09:04:52.518Z",
+    "updated_at": "2026-01-02T09:05:45.327Z",
+    "title": "24 ECFinal Xian C. Norte da Universidade",
+    "link": "https://contest.ucup.ac/contest/1894/problem/9977",
+    "source": "ucup",
+    "tags": [
+      "计数"
+    ],
+    "assignee": "詹靖杰/宿子腾",
+    "solved": false,
+    "unsolved_stage": "已看题无思路",
+    "unsolved_custom_label": null,
+    "pass_count": 20,
+    "notes": null
+  },
+  {
+    "id": "0fe1e373-3a9f-40f3-9061-a10df9b74fcf",
+    "created_at": "2026-01-02T09:05:35.128Z",
+    "updated_at": "2026-01-02T09:05:35.128Z",
+    "title": "24 ECFinal Xian K. Exploration Boundary",
+    "link": "https://contest.ucup.ac/contest/1894/problem/9985",
+    "source": "ucup",
+    "tags": [
+      "图论",
+      "最短路",
+      "adhoc"
+    ],
+    "assignee": "詹靖杰/宿子腾",
+    "solved": false,
+    "unsolved_stage": "已看题无思路",
+    "unsolved_custom_label": null,
+    "pass_count": 46,
+    "notes": null
+  },
+  {
+    "id": "3c9b4bca-1341-4edf-b119-f339e8fdf05f",
+    "created_at": "2026-01-02T09:06:22.435Z",
+    "updated_at": "2026-01-02T09:06:22.435Z",
+    "title": "24 ECFinal Xian L. Shiori",
+    "link": "https://contest.ucup.ac/contest/1894/problem/9986",
+    "source": "ucup",
+    "tags": [
+      "数据结构",
+      "势能线段树"
+    ],
+    "assignee": "连君朴",
+    "solved": false,
+    "unsolved_stage": "知道做法未实现",
+    "unsolved_custom_label": null,
+    "pass_count": 58,
+    "notes": null
   }
 ]
