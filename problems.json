@@ -191,5 +191,40 @@
     "unsolved_custom_label": null,
     "pass_count": 58,
     "notes": null
+  },
+  {
+    "id": "e3f803e1-1e9d-4d14-9233-54c39d96a6c5",
+    "created_at": "2026-01-08T08:17:05.623Z",
+    "updated_at": "2026-01-08T08:17:05.623Z",
+    "title": "Ucup3rd Stage 40 D. Fern Market",
+    "link": "https://contest.ucup.ac/contest/2135/problem/12153",
+    "source": "ucup",
+    "tags": [
+      "计数"
+    ],
+    "assignee": "连君朴",
+    "solved": false,
+    "unsolved_stage": "已看题无思路",
+    "unsolved_custom_label": null,
+    "pass_count": 36,
+    "notes": null
+  },
+  {
+    "id": "732630ae-0002-47ec-bf1c-b6bc98c2aa34",
+    "created_at": "2026-01-08T08:18:19.300Z",
+    "updated_at": "2026-01-08T08:18:19.300Z",
+    "title": "Ucup3rd Stage 40 J. Housing Estate",
+    "link": "https://contest.ucup.ac/contest/2135/problem/12159",
+    "source": "ucup",
+    "tags": [
+      "构造",
+      "差分约束"
+    ],
+    "assignee": "詹靖杰/宿子腾",
+    "solved": true,
+    "unsolved_stage": null,
+    "unsolved_custom_label": null,
+    "pass_count": 36,
+    "notes": "虽然只有 n+m-1 个自由度，但是实际上可以由 n+m 个变元来构造，来转变为差分约束问题"
   }
 ]
